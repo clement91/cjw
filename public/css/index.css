@@ -1,0 +1,258 @@
+/*-----------
+Laravel Default
+------------*/
+html, body {
+    background-color: #fff;
+    color: #636b6f;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 200;
+    height: 100vh;
+    margin: 0;
+}
+
+.full-height {
+    height: 100vh;
+}
+
+.flex-center {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.position-ref {
+    position: relative;
+}
+
+.top-right {
+    position: absolute;
+    right: 10px;
+    top: 18px;
+}
+
+.content {
+    text-align: center;
+}
+
+.title {
+    font-size: 84px;
+}
+
+.links > a {
+    color: #636b6f;
+    padding: 0 25px;
+    font-size: 13px;
+    font-weight: 600;
+    letter-spacing: .1rem;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.m-b-md {
+    margin-bottom: 30px;
+}
+
+/*-----------
+countdown
+------------*/
+#normal-countdown{ text-align: center; }
+
+#normal-countdown .time-sec{ position: relative; display: inline-block; margin: 12px; height: 90px; width: 90px;
+	border-radius: 100px; box-shadow: 0px 0px 0px 5px rgba(255,255,255,.5); background: #fff; color: #333; }
+
+#normal-countdown .time-sec .main-time{ font-weight: 500; line-height: 70px; font-size: 2em; color: #F84982; }
+
+#normal-countdown .time-sec span{ position: absolute; bottom: 20px; left: 50%; transform: translateX(-50%);
+	font-size: .9em; font-weight: 600; }
+.main-time {
+  margin-top: 0rem;
+}
+
+/*-----------
+preloader-cube
+------------*/
+.preloader-cube {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #75cbe7;
+    background: -webkit-gradient(linear, left top, left bottom, from(#75cbe7), to(#138fc2));
+    background: linear-gradient(to bottom, #75cbe7 0%, #138fc2 100%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#75cbe7', endColorstr='#138fc2', GradientType=0);
+    z-index: 99999999999;
+}
+
+.sk-folding-cube {
+    margin: 20px auto;
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -20px;
+    margin-left: -20px;
+    -webkit-transform: rotateZ(45deg);
+    transform: rotateZ(45deg);
+}
+
+.sk-folding-cube .sk-cube {
+    float: left;
+    width: 50%;
+    height: 50%;
+    position: relative;
+    -webkit-transform: scale(1.1);
+    transform: scale(1.1);
+}
+
+.sk-folding-cube .sk-cube:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: #ffffff;
+    -webkit-animation: sk-foldCubeAngle 2.4s infinite linear both;
+    animation: sk-foldCubeAngle 2.4s infinite linear both;
+    -webkit-transform-origin: 100% 100%;
+    transform-origin: 100% 100%;
+}
+
+.sk-folding-cube .sk-cube2 {
+    -webkit-transform: scale(1.1) rotateZ(90deg);
+    transform: scale(1.1) rotateZ(90deg);
+}
+
+.sk-folding-cube .sk-cube3 {
+    -webkit-transform: scale(1.1) rotateZ(180deg);
+    transform: scale(1.1) rotateZ(180deg);
+}
+
+.sk-folding-cube .sk-cube4 {
+    -webkit-transform: scale(1.1) rotateZ(270deg);
+    transform: scale(1.1) rotateZ(270deg);
+}
+
+.sk-folding-cube .sk-cube2:before {
+    -webkit-animation-delay: 0.3s;
+    animation-delay: 0.3s;
+}
+
+.sk-folding-cube .sk-cube3:before {
+    -webkit-animation-delay: 0.6s;
+    animation-delay: 0.6s;
+}
+
+.sk-folding-cube .sk-cube4:before {
+    -webkit-animation-delay: 0.9s;
+    animation-delay: 0.9s;
+}
+
+@-webkit-keyframes sk-foldCubeAngle {
+    0%,
+    10% {
+        -webkit-transform: perspective(140px) rotateX(-180deg);
+        transform: perspective(140px) rotateX(-180deg);
+        opacity: 0;
+    }
+    25%,
+    75% {
+        -webkit-transform: perspective(140px) rotateX(0deg);
+        transform: perspective(140px) rotateX(0deg);
+        opacity: 1;
+    }
+    90%,
+    100% {
+        -webkit-transform: perspective(140px) rotateY(180deg);
+        transform: perspective(140px) rotateY(180deg);
+        opacity: 0;
+    }
+}
+
+@keyframes sk-foldCubeAngle {
+    0%,
+    10% {
+        -webkit-transform: perspective(140px) rotateX(-180deg);
+        transform: perspective(140px) rotateX(-180deg);
+        opacity: 0;
+    }
+    25%,
+    75% {
+        -webkit-transform: perspective(140px) rotateX(0deg);
+        transform: perspective(140px) rotateX(0deg);
+        opacity: 1;
+    }
+    90%,
+    100% {
+        -webkit-transform: perspective(140px) rotateY(180deg);
+        transform: perspective(140px) rotateY(180deg);
+        opacity: 0;
+    }
+}
+
+/*-----------
+custom
+------------*/
+.header-menu-toggle, .header-nav h3 {
+  color: #D6BB6E;
+}
+.color_p, .subhead {
+  color: #3A4049;
+}
+.home-content__buttons {
+  text-align: center;
+}
+.color_14 {
+    color: #3A4049;
+    letter-spacing: 0.3em;
+}
+.color_17 {
+    color: #D6BB6E;
+    letter-spacing: 0.3em;
+    font-weight: bold;
+}
+.ev-divider {
+    background-color: rgba(58,64,73,1);
+    width: 2px;
+    height: 103px;
+}
+.s-wedding {
+    padding-top: 16.2rem;
+    padding-bottom: 16.8rem;
+    background-color: #D6BB6E;
+    color: #757575;
+    position: relative;
+}
+.s-story {
+    padding-top: 16.2rem;
+    padding-bottom: 16.8rem;
+    background-color: #FFFFFF;
+    color: #757575;
+    position: relative;
+}
+.copyright {
+  color: #3A4049;
+}
+footer {
+  background: #FFFFFF;
+  padding: 5.5rem 0 6rem;
+}
+footer .row {
+    max-width: 980px;
+}
+.footer-bottom {
+    margin-top: 0 !important;
+}
+.home-content__buttons {
+  padding-top: 0px;
+}
+
+/*-----------
+RSVP Page
+------------*/
+.s-contact {
+  background-image: none;
+  background-color: #D6BB6E;
+}
