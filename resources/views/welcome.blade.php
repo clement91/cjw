@@ -122,7 +122,7 @@
         <section id="home">
           <div class="flex-center position-ref full-height">
               <div class="content">
-                  <div class="title m-b-md">
+                  <div class="customTitle title m-b-md">
                       Clement & Jaclyn
                   </div>
                   <p class="color_p">

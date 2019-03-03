@@ -51,6 +51,12 @@ html, body {
 .m-b-md {
     margin-bottom: 30px;
 }
+/*-----------
+Jac's changes
+------------*/
+.customTitle {
+  font-size: 13px !important;
+}
 
 /*-----------
 countdown
