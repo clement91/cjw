@@ -150,7 +150,7 @@
                 </p>
 
                 <p class="color_p flex-center">
-                  test I'm a paragraph. Click here to add your own text and edit me. It’s easy.<br/>
+                  test 222 I'm a paragraph. Click here to add your own text and edit me. It’s easy.<br/>
                   Just click “Edit Text” or double click me to add your own content and<br/>
                   make changes to the font. I’m a great place for you to tell a story and let<br/>
                   your users know a little more about you.
