@@ -122,12 +122,13 @@
         <section id="home">
           <div class="flex-center position-ref full-height">
               <div class="content">
-                  <div class="customTitle title m-b-md">
+                  <div class="title m-b-md">
                       Clement & Jaclyn
                   </div>
                   <p class="color_p">
-                    June 29, 2019, 4.00 PM &nbsp; <b>|</b> &nbsp; Rasa Sayang Penang <br/>
-                    #clejacweds
+                    JUNE 29, 2019, 4.30 PM &nbsp;
+                    <br/> &nbsp; Shangri-La's Rasa Sayang Resort & Spa, Penang
+                    <br/> #clejacweds
                   </p>
               </div>
           </div>
@@ -150,10 +151,14 @@
                 </p>
 
                 <p class="color_p flex-center">
-                  test 222 I'm a paragraph. Click here to add your own text and edit me. It’s easy.<br/>
-                  Just click “Edit Text” or double click me to add your own content and<br/>
-                  make changes to the font. I’m a great place for you to tell a story and let<br/>
-                  your users know a little more about you.
+                  Our love story began in Penang back in 2007.
+                </br> We were both head over heels for one another since we were 16 back in our hometown where we were still studying.
+              </br> Our relationship were not exactly full of rainbows and butterflies, but we managed to push through it all with the power of love!
+            </br> Our mutual understanding for one and another and our respect for each other passions and believes have truly paved the way for where we are today.
+  </br>
+</br>  10 years worth of memories later and we’ve moved to Singapore, bought our first home back in Malaysia, went to so many adventures together in Pangkor, Bali, Taiwan, Korea and Australia - Clement finally popped the question, and Jaclyn said yes.
+</br> 2 years now and we are finally ready to settle down and move onwards with our new chapter.
+</br> We can’t wait for this exciting new adventure to begin!
                 </p>
                 <br/>
               </div>
@@ -168,7 +173,7 @@
                 <div class="row section-header has-bottom-sep light-sep" data-aos="fade-up">
                     <div class="col-full">
                         <h3 class="color_14">OUR GALLERY</h3>
-                        <h1 class="display-2 display-2--light">Sneak peak! Check out some of our pre wedding shoot</h1>
+                        <h1 class="display-2 display-2--light">Sneak peak! Check out some of our photos</h1>
                     </div>
                 </div> <!-- end section-header -->
 
@@ -190,15 +195,13 @@
 
                                 <div class="item-folio__text">
                                     <h3 class="item-folio__title">
-                                        Shutterbug
+                                        Year 2016
                                     </h3>
                                     <p class="item-folio__cat">
-                                        Branding
+                                        Time out with the Kangaroos
                                     </p>
                                 </div>
 
-                                <a href="https://www.behance.net/" class="item-folio__project-link" title="Project link">
-                                    <i class="icon-link"></i>
                                 </a>
 
                                 <div class="item-folio__caption">
@@ -370,13 +373,22 @@
           <div class="row section-header" data-aos="fade-up">
               <div class="col-full">
                   <h1 class="color_14">THE WEDDING</h1>
+                    </br>
                   <div id="normal-countdown" data-date="2019/06/29"></div>
                   <br/>
-                  <h3 class="subhead">When</h3>
-                  <p class="color_p">June 29, 2019, 4:00 PM</p>
+                  <h3 class="subhead">Program Details</h3>
+                    </br>
+                  <p class="color_p"><b>JUNE 29, 2019, 4:30 PM onwards</b>
+                  </br>
+                4:30 PM l Wedding Ceremony @ Rain Tree Garden </br>
+                6.30 PM l Cocktail Reception @ Pelangi Ballroom Foyer </br>
+                7.30 PM l Dinner Banquet @ Pelangi Ballroom  </p>
+              </br>
+            </br>
                   <h3 class="subhead">Where</h3>
+                </br>
                   <p class="color_p">
-                    Rasa Sayang Penang,<br/>
+                    Shangri-La's Rasa Sayang Resort & Spa, Penang<br/>
                     Batu Feringgi Main Road, Jalan Batu Feringgi,<br/>
                     11100 Batu Feringgi, Pulau Pinang, Malaysia<br/>
                     +60 4-888 8888
@@ -401,7 +413,7 @@
                 <div class="col-twelve">
                     <div class="copyright flex-center">
                       <div>#clejacweds<br/>
-                        © Copyright By Clement & Jaclyn 2019</div>
+                        © Copyright by Clement & Jaclyn - 2019</div>
                     </div>
 
                     <div class="go-top">
